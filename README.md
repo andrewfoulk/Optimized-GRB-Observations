@@ -13,10 +13,6 @@ This project focuses on identifying the optimal observatory and observation time
 ## Results
 
 GROWTH-India Telescope: Best observatory due to optimal conditions with minimal atmospheric interference.
-Favorable observation windows identified:
-Palomar, S.D.S.U., Table Mountain, Wise Observatories: 2025-08-16 to 2025-08-18, with angular distances from the Moon ranging from 108.81° to 135.64° during the Last Quarter Moon phase.
-Stella Robotic Observatory: Best date on 2024-09-05 during the New Moon phase with a Moon angular distance of 121.98°.
-Fenton Hill Observatory: Favorable conditions from 2025-08-21 to 2025-08-23 during the New Moon phase.
 
 ## Tools and Technologies
 
